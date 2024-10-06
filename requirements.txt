@@ -1,0 +1,7 @@
+streamlit
+langchain-community
+streamlit-chat
+langchain-groq
+langgraph
+python-dotenv
+typing-extensions
